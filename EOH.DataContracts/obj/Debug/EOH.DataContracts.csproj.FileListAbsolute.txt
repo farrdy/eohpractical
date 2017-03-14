@@ -1,0 +1,4 @@
+C:\EOHPractical\EOH.DataContracts\bin\Debug\EOH.DataContracts.dll
+C:\EOHPractical\EOH.DataContracts\bin\Debug\EOH.DataContracts.pdb
+C:\EOHPractical\EOH.DataContracts\obj\Debug\EOH.DataContracts.dll
+C:\EOHPractical\EOH.DataContracts\obj\Debug\EOH.DataContracts.pdb

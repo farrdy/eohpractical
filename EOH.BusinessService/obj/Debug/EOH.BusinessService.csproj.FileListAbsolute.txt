@@ -1,0 +1,11 @@
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.BusinessService.dll
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.BusinessService.pdb
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.Data.dll
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.Model.dll
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EntityFramework.dll
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.Data.pdb
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EOH.Model.pdb
+C:\EOHPractical\EOH.BusinessService\bin\Debug\EntityFramework.xml
+C:\EOHPractical\EOH.BusinessService\obj\Debug\EOH.BusinessService.csprojResolveAssemblyReference.cache
+C:\EOHPractical\EOH.BusinessService\obj\Debug\EOH.BusinessService.dll
+C:\EOHPractical\EOH.BusinessService\obj\Debug\EOH.BusinessService.pdb

@@ -1,0 +1,12 @@
+C:\EOHPractical\EOH.Data\bin\Debug\EOH.Data.dll.config
+C:\EOHPractical\EOH.Data\bin\Debug\EOH.Data.dll
+C:\EOHPractical\EOH.Data\bin\Debug\EOH.Data.pdb
+C:\EOHPractical\EOH.Data\bin\Debug\EntityFramework.dll
+C:\EOHPractical\EOH.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\EOHPractical\EOH.Data\bin\Debug\EOH.Model.dll
+C:\EOHPractical\EOH.Data\bin\Debug\EOH.Model.pdb
+C:\EOHPractical\EOH.Data\bin\Debug\EntityFramework.xml
+C:\EOHPractical\EOH.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\EOHPractical\EOH.Data\obj\Debug\EOH.Data.csprojResolveAssemblyReference.cache
+C:\EOHPractical\EOH.Data\obj\Debug\EOH.Data.dll
+C:\EOHPractical\EOH.Data\obj\Debug\EOH.Data.pdb

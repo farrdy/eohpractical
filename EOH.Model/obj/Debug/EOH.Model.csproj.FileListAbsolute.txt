@@ -1,0 +1,4 @@
+C:\EOHPractical\EOH.Model\bin\Debug\EOH.Model.dll
+C:\EOHPractical\EOH.Model\bin\Debug\EOH.Model.pdb
+C:\EOHPractical\EOH.Model\obj\Debug\EOH.Model.dll
+C:\EOHPractical\EOH.Model\obj\Debug\EOH.Model.pdb
